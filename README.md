@@ -1,5 +1,6 @@
 
-![yEpO1X](https://user-images.githubusercontent.com/65928388/145458789-7edbe14c-3c05-48f6-b0e2-ec6bb5137fb5.gif)
+![green](https://user-images.githubusercontent.com/65928388/145458851-50aaaa45-c52d-44b3-b08c-68caaea2d76b.gif)
+
 
 
 👽 Hi, I’m Indra Seixas I'm career transitioning to the Data World 
