@@ -1,8 +1,6 @@
 
 ![green](https://user-images.githubusercontent.com/65928388/145458851-50aaaa45-c52d-44b3-b08c-68caaea2d76b.gif)
 
-
-
 👽 Hi, I’m Indra Seixas I'm career transitioning to the Data World 
 
 🔭 I’m currently finishing Ironhack Data Analysis bootcamp and working on my Portfolio
@@ -13,5 +11,7 @@
 as well as Big Data processing tools (Hadoop, Hive and Spark), databases and datawarehouses and data pipeline tools (Apache Beam, Airflow, Dataflow)!
 
 Programming Languages and Tools
+
 ✔️Python *NumPy, Pandas, Matplotlib, Sklearn, Seaborn
+
 ✔️ SQL
