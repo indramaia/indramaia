@@ -1,8 +1,6 @@
-![github_fundo](https://user-images.githubusercontent.com/65928388/145455732-350ee376-a927-4032-bc11-c93503097f37.gif)
 
-
-
-
+<a href="LINK_TO_REPO">  <img src=![github_fundo](https://user-images.githubusercontent.com/65928388/145455732-350ee376-a927-4032-bc11-c93503097f37.gif) alt="Gif" width="150" height="150">
+</a>
 
 👽 Hi, I’m Indra Seixas I'm career transitioning to the Data World 
 
