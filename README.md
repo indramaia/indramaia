@@ -3,9 +3,8 @@
 
 👽 Hi, I’m Indra Seixas I'm career transitioning to the Data World 
 
-🔭 I’m currently finishing Ironhack Data Analysis bootcamp and working on my Portfolio
-
-💻 I’m also starting to study data engineering 
+🔭 I’m a graduate of Ironhack Data Analysis bootcamp 
+💻 Currently specializing in Data engineering and finishing a bootcamp on Azure Cloud Architecture 
 
 🥅 2022 Goals: Enhance my data analysis skills and learn more about data engineering infrastructure components (virtual machines, cloud-based services)
 as well as Big Data processing tools (Hadoop, Hive and Spark), databases and datawarehouses and data pipeline tools (Apache Beam, Airflow, Dataflow)!
