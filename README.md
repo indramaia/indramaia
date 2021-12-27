@@ -12,5 +12,5 @@ as well as Big Data processing tools (Hadoop, Hive and Spark), databases and dat
 Programming Languages and Tools
 
 ✔️Python *NumPy, Pandas, Matplotlib, Sklearn, Seaborn
-
 ✔️ SQL
+✔️ Tableau, Power BI 
